@@ -1,0 +1,16 @@
+{
+	"servers": {
+		"Atlassian-Rovo-MCP": {
+			"type": "http",
+			"url": "https://mcp.atlassian.com/v2/mcp"
+		},
+	"playwright": {
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest"
+      ]
+    }
+		
+	},
+	"inputs": []
+}

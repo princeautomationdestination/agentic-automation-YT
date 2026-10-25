@@ -1,0 +1,5 @@
+[    5379ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://opensource-demo.orangehrmlive.com/web/index.php/auth/login:0
+[ 1206800ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://opensource-demo.orangehrmlive.com/web/index.php/auth/login:0
+[ 2408482ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://opensource-demo.orangehrmlive.com/web/index.php/auth/login:0
+[18348073ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://opensource-demo.orangehrmlive.com/web/index.php/auth/login:0
+[95646870ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://opensource-demo.orangehrmlive.com/web/index.php/auth/login:0
